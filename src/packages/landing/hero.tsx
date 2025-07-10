@@ -10,7 +10,7 @@ const Hero = () => {
                     India's trusted seo optimization platform
                     <span className='rounded-full p-0.5 bg-lime-400 animate-ping'></span>
                 </span>
-                <h1 className='text-8xl bg-linear-to-r from-neutral-400 to-neutral-100 bg-clip-text  text-transparent mt-2 font-medium '>
+                <h1 className='text-8xl bg-linear-to-r from-neutral-900 to-neutral-800 via-white bg-clip-text  text-transparent mt-2 font-medium '>
                     Boost your <br></br>
                     website's SEO
                 </h1>

@@ -3,6 +3,9 @@ import Navbar from './navbar'
 import Hero from './hero'
 import Marque from './marque'
 import Features from './features'
+import Achievements from './achievements'
+import Footer from './footer'
+import Pricing from './pricing'
 
 const Landing = () => {
   return (
@@ -12,6 +15,9 @@ const Landing = () => {
         <Hero />
         <Marque />
         <Features />
+        <Achievements />
+        <Pricing />
+        <Footer />
       </div>
     </div>
   )
